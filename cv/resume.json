@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Gregory Sukanto",
+    "label": "Software Engineer",
+    "email": "gregory.sukanto@gmail.com",
+    "phone": "(62) 838-5490-4403",
+    "website": "https://gsukanto.github.io",
+    "summary": "Gregory is a person who have continous improvement mindset. He always learn for enhancing his talent with an intention to be an asset to the company. He had a proven track record as a software architect and a technology leader in architecting and implementing microservice, monolith, migrating, devoping, and leading agile teams.",
+    "location": {
+      "address": "Metro Park Residence, Jl. Pilar Mas Utama No.Kav. 28, RT.7/RW.3, South Kedoya, Kebon Jeruk",
+      "postalCode": "11520",
+      "city": "Jakarta Barat",
+      "countryCode": "ID"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "gsukanto",
+        "url": "https://github.com/gsukanto"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Hyperjump",
+      "position": "Senior Staff Engineer",
+      "website": "https://hyperjump.tech/",
+      "startDate": "2019-08-27",
+      "summary": "Hyperjump (PT Artha Rajamas Mandiri) is a company that provides software engineering consulting services based in Jakarta. Hyperjump currently provides four types of services: ",
+      "highlights": [
+        "CTO-As-A-Service, a consulting service for companies which face challenges in building high-quality software technology team.",
+        "Software-As-A-Service, a comprehensive software development service with a fix monthly subscription model.",
+        "Tech Due Diligence, an exhaustive technology auditing service for venture capital firms looking to invest in technology startups.",
+        "ERP Implementation, a bespoke ERP implementation service."
+      ]
+    },
+    {
+      "company": "OVO",
+      "position": "Software Engineer",
+      "website": "https://www.ovo.id/",
+      "startDate": "2018-07-01",
+      "endDate": "2019-08-26",
+      "summary": "OVO is a mobile app payment system with a twist of magic. Aside from making sure your financial transactions become as simple, instant and secure as it can be, everytime you pay with OVO you’ll get plenty of happiness back."
+    },
+    {
+      "company": "Jenius",
+      "position": "Software Engineer",
+      "website": "https://www.jenius.com/en/",
+      "startDate": "2017-01-01",
+      "endDate": "2018-06-30",
+      "summary": "Jenius is an app by Bank BTPN which offers a new way in doing banking activities."
+    },
+    {
+      "company": "Moka",
+      "position": "Software Engineer",
+      "website": "https://www.mokapos.com",
+      "startDate": "2016-04-01",
+      "endDate": "2016-12-31",
+      "summary": "Moka is a mobile Point of Sale (POS) system that aims to help small and medium business owners run their business better. Moka do this by giving them powerful tools; from a register in the store, mPOS reader to accept card payments, and a complete back-office for reporting and analytics."
+    },
+    {
+      "company": "Happyfresh",
+      "position": "Software Engineer",
+      "website": "https://www.happyfresh.com",
+      "startDate": "2015-04-01",
+      "endDate": "2016-04-01",
+      "summary": "HappyFresh Group is the number one hyper-local delivery and FoodTech company in Southeast Asia. With headquarters in Jakarta, it have expanded to seven cities in five countries within 12 months of inception and now operate in Indonesia, Malaysia, Thailand, Taiwan and the Philippines. HappyFresh are building a company that is dynamic, meritocratic, and always striving to innovate to improve the lives of our customers. It was backed by some of the most reputable investors in Southeast Asia, Europe and the US, and have raised one of the largest A-Rounds in the history of the region."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Jenius IT Hackathon 2017",
+      "position": "Steering Committee",
+      "website": "https://www.codepolitan.com/jenius-it-hackathon-internal-2017-btpn",
+      "startDate": "2017-04-08",
+      "endDate": "2017-08-13",
+      "summary": "Steering comittee and deputy lead of organitation committee for Jenius-IT Hackathon 2017"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institut Teknologi Sepuluh Nopember",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2010-08-01",
+      "endDate": "2014-08-31"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Emoticon-based steganography for securing sensitive data",
+      "publisher": "IEEE",
+      "releaseDate": "2014-10-07",
+      "website": "http://ieeexplore.ieee.org/document/7007904/",
+      "summary": "Hide secret data by developing emoticon-based steganography."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Developer",
+      "level": "Master"
+    },
+    {
+      "name": "Devops",
+      "level": "Master"
+    },
+    {
+      "name": "Web Developer",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Mobile Developer",
+      "level": "Intermediate"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bahasa (Indonesia)",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ]
+}
