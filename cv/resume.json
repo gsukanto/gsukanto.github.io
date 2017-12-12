@@ -1,0 +1,275 @@
+{
+  "basics": {
+    "name": "Gregory Sukanto",
+    "label": "Software Engineer",
+    "email": "gregory.sukanto@gmail.com",
+    "phone": "(62) 838-5490-4403",
+    "website": "https://gsukanto.github.io",
+    "summary": "Gregory is a person who have continous improvement mindset. He always learn for enhancing his talent with an intention to be an asset to the company. He is a software architect and technology leader with exprience in architecting and implementing microservice, monolith, migration, devoping, and leading agile teams.",
+    "location": {
+      "address": "Metro Park Residence, Jl. Pilar Mas Utama No.Kav. 28, RT.7/RW.3, South Kedoya, Kebon Jeruk",
+      "postalCode": "11520",
+      "city": "Jakarta Barat",
+      "countryCode": "ID"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "gsukanto",
+        "url": "https://github.com/gsukanto"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Hyperjump",
+      "position": "Senior Consultant",
+      "website": "https://hyperjump.tech/",
+      "startDate": "2019-08-27",
+      "summary": "Hyperjump (PT Artha Rajamas Mandiri) is a company that provides software engineering consulting services based in Jakarta. Hyperjump currently provides four types of services: ",
+      "highlights": [
+        "CTO-As-A-Service, a consulting service for companies which face challenges in building high-quality software technology team.",
+        "Software-As-A-Service, a comprehensive software development service with a fix monthly subscription model.",
+        "Tech Due Diligence, an exhaustive technology auditing service for venture capital firms looking to invest in technology startups.",
+        "Odoo Implementation, a bespoke ERP implementation service."
+      ]
+    },
+    {
+      "company": "OVO",
+      "position": "Software Engineer",
+      "website": "https://www.ovo.id/",
+      "startDate": "2018-07-01",
+      "endDate": "2019-08-26",
+      "summary": "OVO is a mobile app payment system with a twist of magic. Aside from making sure your financial transactions become as simple, instant and secure as it can be, everytime you pay with OVO you’ll get plenty of happiness back.",
+      "highlights": [
+        "Migrating Customer database with more than 40 million data with 0 down time",
+        "Onboarding millions Customer data from Grab, Tokopedia, and etc",
+        "Integration with Whatsapp payment",
+        "Golang developer with 100% test coverage"
+      ]
+    },
+    {
+      "company": "Jenius",
+      "position": "Software Engineer",
+      "website": "https://www.jenius.com/en/",
+      "startDate": "2017-01-01",
+      "endDate": "2018-06-30",
+      "summary": "Jenius is an app by Bank BTPN which offers a new way in doing banking activities.",
+      "highlights": [
+        "Full stack developer who play a lot with react/react-native, redux (saga, etc), graphql, microservices",
+        "Leading interview for developer candidate by conducting peer/pair programming",
+        "Create minitools for helping QA and Business As Usual thing",
+        "Leading developing, migrating, and architecting Jenius 2"
+      ]
+    },
+    {
+      "company": "Moka",
+      "position": "Software Engineer",
+      "website": "https://www.mokapos.com",
+      "startDate": "2016-04-01",
+      "endDate": "2016-12-31",
+      "summary": "Moka is a mobile Point of Sale (POS) system that aims to help small and medium business owners run their business better. Moka do this by giving them powerful tools; from a register in the store, mPOS reader to accept card payments, and a complete back-office for reporting and analytics.",
+      "highlights": [
+        "Designing microservices",
+        "Redesign AWS infrastructure",
+        "Refactor & redesign backend structure",
+        "Improving daily email & daily low inventory notification from 8 hours to only 15 minutes, from EC2 XLarge to EC2 medium",
+        "Leading interview for developer candidate"
+      ]
+    },
+    {
+      "company": "Happyfresh",
+      "position": "Software Engineer",
+      "website": "https://www.happyfresh.com",
+      "startDate": "2015-04-01",
+      "endDate": "2016-04-01",
+      "summary": "HappyFresh Group is the number one hyper-local delivery and FoodTech company in Southeast Asia. With headquarters in Jakarta, it have expanded to seven cities in five countries within 12 months of inception and now operate in Indonesia, Malaysia, Thailand, Taiwan and the Philippines. HappyFresh are building a company that is dynamic, meritocratic, and always striving to innovate to improve the lives of our customers. It was backed by some of the most reputable investors in Southeast Asia, Europe and the US, and have raised one of the largest A-Rounds in the history of the region.",
+      "highlights": [
+        "Product integration management",
+        "Price integration with more than 120 stores and more than 40 thousands product/price accross 5 countries that need to be done in less than 1 hour everyday",
+        "Create good infrastructur for Business Integelegent and Operation team",
+        "Create SOP for Operation team"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Jenius IT Hackathon 2017",
+      "position": "Steering Committee",
+      "website": "https://www.codepolitan.com/jenius-it-hackathon-internal-2017-btpn",
+      "startDate": "2017-04-08",
+      "endDate": "2017-08-13",
+      "summary": "Steering comittee and deputy lead of organitation committee for Jenius-IT Hackathon 2017",
+      "highlights": [
+        "Made organitation comittee that consist around 70 people accross division",
+        "Responsible for everything that OC do, including marketing (online & offline), opertional, logistic, inter & intra communication, event, documentation, funding, etc",
+        "Successfully held with 80% statisfication from participant and 85% statisfication from all OC",
+        "The biggest BTPN IT internal event with prize of 5 macbook + IDR 150 million in total"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institut Teknologi Sepuluh Nopember",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2010-08-01",
+      "endDate": "2014-08-31"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Emoticon-based steganography for securing sensitive data",
+      "publisher": "IEEE",
+      "releaseDate": "2014-10-07",
+      "website": "http://ieeexplore.ieee.org/document/7007904/",
+      "summary": "Hide secret data by developing emoticon-based steganography."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Developer",
+      "level": "Master",
+      "keywords": [
+        "Ruby",
+        "Rails",
+        "Ruby On Rails",
+        "NodeJS",
+        "Python",
+        "Golang",
+        "Rust",
+        "Java",
+        "Spring",
+        "Springboot",
+        "Microservices",
+        "Serverless",
+        "Functional",
+        "Database",
+        "Postgres",
+        "MySql",
+        "MariaDB",
+        "MongoDB",
+        "ArangoDB",
+        "Redis",
+        "Memcached",
+        "Kafka",
+        "Architecture",
+        "API",
+        "Cron",
+        "Worker"
+      ]
+    },
+    {
+      "name": "Developer Operation",
+      "level": "Master",
+      "keywords": [
+        "Docker",
+        "Docker Compose",
+        "Kubernetes",
+        "OpenShift",
+        "Dokku",
+        "AWS",
+        "Elastic Beanstalk",
+        "ECS",
+        "Virtualization",
+        "CI/CD",
+        "Gitlab",
+        "Github",
+        "BitBucket",
+        "Pipeline",
+        "Opswork",
+        "Chef",
+        "Ansible",
+        "Jenkins",
+        "Azure Pipeline",
+        "AppCenter",
+        "Azure",
+        "Bluemix",
+        "Google Cloud",
+        "Heroku",
+        "Monitoring",
+        "Aplication Perfomance Monitoring",
+        "NewRelic",
+        "Pager Duty",
+        "BuddyBuild",
+        "API Gateway",
+        "Nginx",
+        "Apache",
+        "Apigee",
+        "Kong",
+        "Elastic",
+        "Odoo"
+      ]
+    },
+    {
+      "name": "Web Developer",
+      "level": "Intermediate",
+      "keywords": [
+        "Front End",
+        "Website",
+        "Mobile Web",
+        "JQuery",
+        "Angular",
+        "React",
+        "Redux",
+        "Saga",
+        "Redux middleware",
+        "Automation",
+        "Cucumber",
+        "Puppeteer",
+        "Robot"
+      ]
+    },
+    {
+      "name": "Mobile Developer",
+      "level": "Intermediate",
+      "keywords": [
+        "Front End",
+        "Android",
+        "iOS",
+        "Java",
+        "Kotlin",
+        "Objective C",
+        "Swift",
+        "React Native",
+        "Flutter",
+        "Redux middleware",
+        "Android Studio",
+        "Xcode",
+        "Gradle",
+        "Maven",
+        "Android emulator",
+        "iOS simulator",
+        "Automation",
+        "Cucumber",
+        "Robot",
+        "Katalon"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bahasa (Indonesia)",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Software Development",
+      "keywords": [
+        "Software Architecture",
+        "Big data",
+        "Networking",
+        "Developer Operations",
+        "Security",
+        "Agile (Scrum & Kanban)",
+        "Automation",
+        "CI/CD"
+      ]
+    }
+  ]
+}
